@@ -81,4 +81,4 @@ Please reach out to the competition organizers.
 
 ## Good Luck!
 
-May the best coder win! Happy coding and enjoy the challenge! 🚀
+May the best coder win! Happy coding and enjoy the challenge!

@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 /*
     HARD 5 – Mini Shopping Cart
     Goal: Simulate a simple shopping cart with ADD, REMOVE, and TOTAL commands.
@@ -9,7 +8,9 @@
     Example:
         ADD apple 50\nADD banana 20\nREMOVE apple\nTOTAL  -> Total: 20
 */
-using namespace std;
-int main(){
-    
+import java.util.*;
+public class Main {
+    public static void main(String[] args){
+        
+    }
 }

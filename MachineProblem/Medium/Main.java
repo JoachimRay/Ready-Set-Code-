@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 /*
     MEDIUM 5 – Simple Calculator
     Goal: Perform + - * / between two numbers and print the result.
@@ -6,7 +5,9 @@
     Output: result (e.g. "50")
     Note: division by zero returns 0 in this simple implementation.
 */
-using namespace std;
-int main(){
-
+import java.util.*;
+public class Main {
+    public static void main(String[] args){
+ 
+    }
 }
